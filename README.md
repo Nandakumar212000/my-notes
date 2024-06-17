@@ -1,5 +1,5 @@
 # Getting Started (Project is under development may not work properly)
-Install the dependencies and run the project
+Install the dependencies , Update the firebaseConfig with your firebaseConfig details in firebase.js file and run the project.
 ```
 npm install
 npm start
