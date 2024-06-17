@@ -7,12 +7,12 @@ import {
 import { collection, getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDavZKWJj601MPEm8srRtVflfb5UAtTZY8",
-  authDomain: "react-notes-5c139.firebaseapp.com",
-  projectId: "react-notes-5c139",
-  storageBucket: "react-notes-5c139.appspot.com",
-  messagingSenderId: "1006200915558",
-  appId: "1:1006200915558:web:9873af0817435835ab0fa7",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
