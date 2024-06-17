@@ -6,3 +6,4 @@ npm start
 ```
 
 Implementinting Firebase.
+Visit previous notes-app version for visual experience (https://github.com/Nandakumar212000/notes-app)
